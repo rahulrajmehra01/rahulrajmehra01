@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Rahul Raj Mehra <br>🔭Web Developer <br>📫 reach me at rahulrajmehra06@gmail.com
+🔭Web Developer
 
 
 ## 🌐 Socials:
