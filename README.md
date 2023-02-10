@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Rahul Raj Mehra <br>🔭Web Development <br>⚡ Fun fact about me: I love hanging around communities and listening music🎧<br>📫 How to reach me at rahulrajmehra06@gmail.com
+Hi 👋, I'm Rahul Raj Mehra <br>🔭Web Developer <br>📫 reach me at rahulrajmehra06@gmail.com
 
 
 ## 🌐 Socials:
