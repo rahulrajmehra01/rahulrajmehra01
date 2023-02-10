@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Rahul Raj Mehra <br>🔭 I’m a Student of Masters of Computer Application<br>🌱 I’m currently learning DSA and Front end.<br>💬 Ask me about Front End.<br>⚡ Fun fact about me: I love hanging around communities and listening music🎧<br>📫 How to reach me at rahulrajmehra06@gmail.com
+Hi 👋, I'm Rahul Raj Mehra <br>🔭Web Development <br>⚡ Fun fact about me: I love hanging around communities and listening music🎧<br>📫 How to reach me at rahulrajmehra06@gmail.com
 
 
 ## 🌐 Socials:
