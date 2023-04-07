@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋🏻<br>• ⏱ I'm currently working on something cool!<br>• 🍀 I'm currently learning Rest APIs and Node.js<br>• 💬 Ask me about web development
+Hi there 👋🏻<br>• ⏱ I'm currently working on something cool!<br>• 🍀 I'm currently learning Rest APIs and Node.js<br>• 💬 Ask me about backend
 
 
 ## 🌐 Socials:
