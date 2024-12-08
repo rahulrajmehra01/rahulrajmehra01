@@ -1,6 +1,5 @@
 ## About Me:
-Hi there 👋🏻<br>• ⏱ I'm currently working on something cool!<br>• 🍀 I'm currently learning Rest APIs and Node.js.<br>• 💬 Ask me about backend.
-
+Hi there 👋🏻<br>• ✨ Software Engineer with 1+ year of experience in backend development<br>• ⏱ Currently working on dynamic report generation, API development, and optimizing business workflows.<br>• 🔧 Skilled in building scalable APIs, optimizing business logic, and delivering high-performance solutions.<br>• 🚀 Passionate about problem-solving and creating robust backend architectures.<br>• 💬 Feel free to ask me about backend development, API integration, or database optimization!<br>
 
 ## Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/https://instagram.com/rahulrajmehra01) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahulrajmehra01) 
